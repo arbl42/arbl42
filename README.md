@@ -11,6 +11,8 @@
   <img align="left" alt="Ariana's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+
+
 I'm currently studying Software Engeneering in University of Minho, Braga, Portugal.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AITK42&layout=compact&theme=dark)](https://github.com/AITK42/github-readme-stats)
