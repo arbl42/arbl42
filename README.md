@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/arianalousada/">
   <img align="left" alt="Ariana's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/arianalousada/">
   <img align="left" alt="Ariana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -14,6 +13,7 @@
 
 
 I'm currently studying Software Engeneering in University of Minho, Braga, Portugal.
+If you wish to contact me you can do so by sending an email to arianaRBlousada@outlook.pt.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AITK42&layout=compact&theme=dark)](https://github.com/AITK42/github-readme-stats)
 
