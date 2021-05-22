@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
 <a href="https://www.linkedin.com/in/arianalousada/">
   <img align="left" alt="Ariana's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
