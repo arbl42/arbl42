@@ -4,7 +4,7 @@
   <img align="left" alt="Ariana's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/arianalousada/">
-  <img align="left" alt="Ariana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ariana's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />
 </a>
 <a href="https://www.facebook.com/ariana.lousada/">
   <img align="left" alt="Ariana's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
