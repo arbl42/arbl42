@@ -1,10 +1,10 @@
 ### Hello there 👋 Welcome to my github
 
 <a href="https://www.linkedin.com/in/arianalousada/">
-  <img align="left" alt="Ariana's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ariana's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />
 </a>
 <a href="https://www.instagram.com/arianalousada/">
-  <img align="left" alt="Ariana's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />
+  <img align="left" alt="Ariana's Instagram" width="22px" src="https://img-premium.flaticon.com/png/512/1409/1409946.png?token=exp=1621818259~hmac=6f6092b13d82ca2de22e27681ae85906" />
 </a>
 <a href="https://www.facebook.com/ariana.lousada/">
   <img align="left" alt="Ariana's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
