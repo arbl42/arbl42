@@ -7,7 +7,10 @@
   <img align="left" alt="Ariana's Instagram" width="22px" src="https://img-premium.flaticon.com/png/512/1409/1409946.png?token=exp=1621818259~hmac=6f6092b13d82ca2de22e27681ae85906" />
 </a>
 <a href="https://www.facebook.com/ariana.lousada/">
-  <img align="left" alt="Ariana's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ariana's Facebook" width="22px" src="https://img-premium.flaticon.com/png/512/2111/2111398.png?token=exp=1621818382~hmac=fd7928246d59bee628f45f2ec0d186f4" />
+</a>
+<a href="arianaRBlousada@outlook.pt">
+  <img align="left" alt="Ariana's Email" width="22px" src="https://img-premium.flaticon.com/png/512/2374/2374449.png?token=exp=1621818479~hmac=7987695dd41205b9d4d6acecdbd52972" />
 </a>
 <br />
 <br />
