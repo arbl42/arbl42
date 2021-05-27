@@ -8,7 +8,7 @@
   <img align="left" alt="Ariana's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
 
 <a href="https://www.facebook.com/ariana.lousada/">
-  <img align="left" alt="Ariana's Facebook" width="22px" src="https://img-premium.flaticon.com/png/512/2111/2111398.png?token=exp=1621818382~hmac=fd7928246d59bee628f45f2ec0d186f4" />
+  <img align="left" alt="Ariana's Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />
 </a>
 
 <br />
