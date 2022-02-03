@@ -4,13 +4,6 @@
   <img align="left" alt="Ariana's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />
 </a>
 
-<a href="https://www.instagram.com/arianalousada/">
-  <img align="left" alt="Ariana's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
-
-<a href="https://www.facebook.com/ariana.lousada/">
-  <img align="left" alt="Ariana's Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />
-</a>
-
 <br />
 <br />
 
