@@ -1,7 +1,7 @@
 ### Hello there 👋 Welcome to my github
 
 <a href="https://www.linkedin.com/in/arianalousada/">
-  <img align="left" alt="Ariana's Linkedin" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647455703~hmac=8f32bdca780e2d554e087a0ab6f13a7b" />
+  <img align="left" alt="Ariana's Linkedin" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br />
