@@ -10,6 +10,15 @@
 I'm currently studying Software Engineering in University of Minho, Braga, Portugal. <br />
 If you wish to contact me you can do so by sending an email to arianaRBlousada@outlook.pt
 
+If you're interested in checking out the content of this profile, here is a small index to get you started:
+
+#### University projects
+
+ - [Bachelor's degree in Software Engineering](https://github.com/arbl42/LEI)
+ - [Master's degree in Software Engineering](https://github.com/arbl42/MEI)
+ 
+#### Personal projects 
+ - [Arcanoid game in C#](https://github.com/arbl42/Arkanoid) 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AITK42&layout=compact&theme=dark)](https://github.com/AITK42/github-readme-stats) -->
 <!--
