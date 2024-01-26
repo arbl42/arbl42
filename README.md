@@ -18,7 +18,7 @@ If you're interested in checking out the content of this profile, here is a smal
  - [Master's degree in Software Engineering](https://github.com/arbl42/MEI)
  
 #### Personal projects 
- - [Arcanoid game in C#](https://github.com/arbl42/Arkanoid) 
+ - [Arkanoid game in C#](https://github.com/arbl42/Arkanoid) 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AITK42&layout=compact&theme=dark)](https://github.com/AITK42/github-readme-stats) -->
 <!--
